@@ -1,4 +1,4 @@
-- 💜 Hi, I’m @Dhallia
+- 💜 Hello, I’m @Dhallia
 - 💙 I’m interested in . . . game projects, software development & 3D modeling~!
 - 🔰 I’m currently learning . . . front end software development
 - ✨ I’m looking to collaborate on . . . apps, and mini-game project ideas
