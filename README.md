@@ -1,10 +1,9 @@
-- 💜 Hello, I’m @Dhallia
-- 💙 I’m interested in . . . game projects, software development & 3D modeling~!
-- 🔰 Learning . . . front end software development
-- ✨ Collaborate on . . . apps, and mini-game project ideas
-- 📧 Contact . . . DM!
-- ♀️ Pronouns: . . . She/Her
+- 💜 Hello, I’m @Dhallia 🌸
+- 💙 Interests . . . game projects, software development & 3D modeling~!
 - 💫 Hobbies: . . . Art, Video Games, Inline Skating & Bouldering
+- 🔰 Learning . . . front end software development
+- ✨ Collaborate . . . apps, and mini-game project ideas
+- 📧 Contact . . . DM!
 
 <!---
 Dhallia/Dhallia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
