@@ -1,7 +1,7 @@
 - 💜 Hello, I’m @Dhallia 🌸
 - 💙 Interests . . . game projects, software development & 3D modeling~!
 - 💫 Hobbies: . . . Art, Video Games, Inline Skating & Bouldering
-- 🔰 Learning . . . front end software development
+- 🔰 Learning . . . Front End Software development
 - ✨ Collaborate . . . apps, and mini-game project ideas
 - 📧 Contact . . . DM!
 
