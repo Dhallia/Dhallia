@@ -1,6 +1,6 @@
-》 💜 Hello, I’m @Dhallia 🌸
-》 💙 Interests . . . . game projects, software development & 3D modeling~!
-》 💫 Hobbies:  . . . . Art, Video Games, Inline Skating & Bouldering
+》 💜 Hello, I’m Dhallia 🌸
+》 💙 Interests . . . . Indie Game Projects, Software Development & 3D Modeling~!
+》 💫 Hobbies:  . . . . Art, Video Games, Roller Skating & Bouldering
 》 🔰 Learning  . . . . Front End Software Development
 》 ✨ Collaborate . . . apps, and mini-game projects
 》 📧 Contact . . . . . DM!
