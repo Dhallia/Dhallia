@@ -6,5 +6,5 @@
 》 📧 Contact . . . . . DM!
 
 <!---
-Dhallia/Dhallia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dhallia/Dhallia is a special repository because its `README.md` (this file) appears on your GitHub profile.
 --->
