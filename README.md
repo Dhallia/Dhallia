@@ -1,4 +1,4 @@
-》 💜 Hi, I’m Dhallia 🌸
+》 🌸 Hi, I’m Dhallia 
 》 💙 Interests . . 》 Small Game Projects, Software Development & 3D Modeling
 》 💫 Hobbies:  . . 》 Art, Video Games & Skating
 》 🔰 Learning  . . 》 Front End Software Development
