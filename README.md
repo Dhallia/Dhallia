@@ -2,7 +2,7 @@
 》 💙 Interests . . 》 Small Game Projects, Software Development & 3D Modeling
 》 💫 Hobbies:  . . 》 Art, Video Games & Skating
 》 🔰 Learning  . . 》 Front End Software Development
-》 ✨ Collaborate . 》apps, and mini-game projects 
+》 ✨ Collaborate . 》 Apps, and mini-game projects 
 》 📧 Contact . . . 》 DM
 
 <!---
